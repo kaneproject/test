@@ -4,5 +4,6 @@
 <display>
 	<category name="category.sample">
 		<portlet id="ejemplo-servicebuilder" />
+		<portlet id="ejemplo"></portlet>
 	</category>
 </display>
